@@ -1,0 +1,2 @@
+# szyslack
+Monads for Swift
